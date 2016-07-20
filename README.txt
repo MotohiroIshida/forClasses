@@ -3,4 +3,5 @@ line 1
     this is add in master
 line3 日本語
 after first merge
+after making new
 
